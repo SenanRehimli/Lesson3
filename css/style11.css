@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+h1{
+    margin: 30px 10px;
+}
+#box1{
+    width: 500px;
+    height: 150px;
+    background-color: blue;
+    border: solid 5px rgb(231, 125, 222);
+    margin-left: 10px;
+    
+}
+#ic{
+    width: 300px;
+    height: 100;
+    background-color: rgb(255, 81, 0);
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+    
+}
+#box2{
+    width: 500px;
+    height: 100px;
+    background-color: blue;
+    border: solid 5px rgb(231, 125, 222);
+    margin-left: 10px;
+}
+#son{
+    width: 300px;
+    height:70;
+    background-color: rgb(255, 81, 0);
+    margin-top: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 25px;
+   
+ 
+}
+

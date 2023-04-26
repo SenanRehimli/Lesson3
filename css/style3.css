@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+h2{
+    text-align: center;
+    margin-top: 8px;
+    color:purple;
+    padding-bottom: 10px;
+}
+body{
+    margin-left: 5px;
+}
+#one{
+    color:red;
+}
+#second{
+    color: red;
+}
+i{
+    color:rgb(204, 241, 131);
+}
+#all{
+    padding-bottom: 20px;
+    border-bottom: 1px solid;
+}
+#section1{
+    color:green;
+    padding-top: 5px ;
+    padding-bottom: 20px;
+}
+#s1{
+    border-bottom: 1px solid;
+    padding-bottom: 20px;
+}
+#section2{
+    color:green;
+    padding-top: 20px ;
+    padding-bottom: 20px;
+}
+#s2{
+    color:red
+}
+#sari{
+    background-color: yellow;
+}

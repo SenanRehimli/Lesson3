@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+}
+#obsi{
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(164, 164, 66);
+}
+#mavi{
+    width: 1000px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+}
+h1{
+    text-align: center;
+    padding-top:5px ;
+}
+#sol{
+    width: 200px;
+    height: 550px;
+    background-color: rgb(255, 255, 255);
+}
+h3{
+    padding: 10px;
+}
+p{
+    padding-left: 10px;
+    color:brown
+}
+#sag{
+    width:800px ;
+    height:550px ;
+    background-color:rgb(255, 255, 255)
+}
+#orta{
+    list-style-type: none;
+}
+h2{
+    padding: 15px;
+}
+#ortayazi{
+    padding-left: 15px;
+    color:black;
+}
+#asaqi{
+    width:1000px;
+    height: 40px;
+    background-color:dimgrey
+}
+#ag{
+    color:white;
+    text-align: right;
+    padding-top: 7px;
+}
+body{
+    margin-left: 250px;
+}

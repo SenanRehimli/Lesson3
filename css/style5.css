@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+}
+#first{
+    width: 1000px;
+    height: 100px;
+    background-color: aqua;
+    margin-left:250px ;
+}
+#first h1{
+    padding-top: 25px;
+    padding-left: 15px;
+    
+}
+#birinci{
+    list-style-type: none;
+}
+p{
+    padding-left: 8px;
+    color: red;
+}
+#mavi{
+    width: 250px;
+    height: 300px;
+    background-color:blue;
+}
+#etrengi{
+    width: 750px;
+    height: 300px;
+    background-color:bisque
+}
+#ikinci{
+    list-style-type: none;
+}
+#qara{
+    color:black;
+    text-align: center;
+    padding-top: 15px;
+}
+#orta{
+    margin-left : 250px;
+}
+#asaqi{
+    background-color:rgb(250, 153, 8);
+    width: 1000px;
+    height: 60px;
+    margin-left: 250px;
+}
+#yazi{
+    color:black;
+    text-align: center;
+    padding-top: 30px;
+}

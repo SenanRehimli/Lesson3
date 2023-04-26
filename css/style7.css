@@ -1,0 +1,39 @@
+#d1{
+    width: 400px;
+    height: 20px;
+    border: solid red 5px;
+}
+#d2{
+    width: 400px;
+    height: 20px;
+    border: double red 4px;
+}
+#d3{
+    width: 400px;
+    height: 20px;
+    border: groove red 5px;
+}
+#d4{
+    width: 400px;
+    height: 20px;
+    border: ridge red 5px;
+}
+#d5{
+    width: 400px;
+    height: 20px;
+    border: inset red 5px;
+}
+#d6{
+    width: 400px;
+    height: 20px;
+    border: outset red 5px;
+}#d7{
+    width: 400px;
+    height: 20px;
+    border: dashed red 5px;
+}
+#d8{
+    width: 400px;
+    height: 20px;
+    border: dotted red 5px;
+}
